@@ -1,2 +1,2 @@
-# A-path-Finder
+# Astar-path-Finder
 A* path finding Algorithm
